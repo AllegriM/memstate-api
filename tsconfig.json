@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2022", // JavaScript moderno
+    "module": "preserve", // El sistema de módulos para Node
+    "moduleResolution": "bundler", // Cómo Node encuentra los módulos
+    "esModuleInterop": true, // Permite `import express from 'express'`
+    "strict": true, // Activa todas las reglas estrictas (¡buena idea!)
+    "outDir": "./dist" // Dónde irán los archivos compilados
+  }
+}
