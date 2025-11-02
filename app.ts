@@ -153,6 +153,10 @@ export async function createServer() {
     }
   }
 
+  app.get("/_memstate/db", (req, res) => {
+    res.json(db);
+  });
+
   //===========================================//
   //============ PASAR DB A RUTAS ============//
   //===========================================//
