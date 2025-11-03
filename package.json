@@ -1,6 +1,6 @@
 {
   "name": "memstate-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "type": "module",
   "main": "./dist/index.js",
