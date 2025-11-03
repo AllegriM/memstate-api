@@ -1,0 +1,8 @@
+# Ignorar los módulos
+node_modules
+
+# Ignorar el código fuente de TypeScript
+src
+
+# Ignorar archivos de configuración de TS
+tsconfig.json
