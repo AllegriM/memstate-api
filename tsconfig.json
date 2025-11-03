@@ -5,6 +5,7 @@
     "moduleResolution": "bundler", // Cómo Node encuentra los módulos
     "esModuleInterop": true, // Permite `import express from 'express'`
     "strict": true, // Activa todas las reglas estrictas (¡buena idea!)
-    "outDir": "./dist" // Dónde irán los archivos compilados
+    "outDir": "./dist", // Dónde irán los archivos compilados
+    "declaration": true
   }
 }
