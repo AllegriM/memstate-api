@@ -1,5 +1,6 @@
 {
   "name": "memstate-api",
+  "description": "Una api con estado en memoria",
   "version": "0.0.5",
   "private": false,
   "type": "module",
